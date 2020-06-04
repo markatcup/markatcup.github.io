@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+Last modified: Wed Jun 03, 2020  09:25PM
 
-You can use the [editor on GitHub](https://github.com/markatcup/markatcup.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to CUP policy tracker
 
-### Markdown
+This is a project to track the current status of all policies behind CUP projects.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Things you need to capture about each CUP project:
+* Name of project
+* Year printed (ie when it was last up-to-date)
+* Latest date policy status was checked
+* Policy it covers
+	* This might require a short description as well as a long-form details field
+	* Details about particular angles/perspective on the policy the project takes
+	* Oddball small things that need to be kept in mind/looked out for/addressed
+* Current status of policy:
+	* Short field: needs update or not
+	* Long field:
+		* What's going on in the world around this policy
+		* Future outlook for policy
+		* Challenges for updating project, in terms of policy
+		* Sources
+* Partner(s) who worked on it with us
+	* Should we contact them about an update to project?
+* CUP staff(s) who worked on it
+* Random notes:
+	* Great ideas for a visual that could better show how the policy works
+* (Designer?)
+	* I don't care about this in terms of policy, buf it you build this thing out, it could be useful for other purposes
+* (Format?)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/markatcup/markatcup.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
