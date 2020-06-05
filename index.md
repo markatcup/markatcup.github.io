@@ -1,9 +1,10 @@
 index.md  
-Last modified: Thu Jun 04, 2020  09:01PM
+Last modified: Thu Jun 04, 2020  09:17PM
   
 
 ## Welcome to CUP's Policy Tracker
 
+### Introduction
 This is a project to track the current status of all policies behind CUP
 projects.  Because CUP's projects are (more often than not) either showing how
 a particular public policy works, or helping people understand their rights
@@ -21,7 +22,16 @@ Goals of this project include:
 For more detailed information on the specific fields that need to be covered
 for a given project, [see this list](./project_tracking-fields.md).
 
+### CUP Projects list
 
+#### EDT
+* Is Your Landlord Harassing You or Your Neighbors?
+* [What is Mandatory Inclusionary Housing?](MIH.md)
+* What's Going On In The Neighborhood?
+* What Is FAR?
+* What is Affordable Housing?
+* What is Zoning?
+* What is ULURP?
 
 
 

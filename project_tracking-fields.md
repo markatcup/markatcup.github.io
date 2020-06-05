@@ -1,9 +1,17 @@
 ./project_tracking-fields.md  
-Last modified: Thu Jun 04, 2020  09:00PM
+Last modified: Thu Jun 04, 2020  09:15PM
   
 
-## Fields you need to capture about each CUP project:
+## Specs for policy tracking
+
+### General specs:
+* Each CUP project should get it's own page.
+* Each page/project should have the list of fields listed below filled in for it.
+* Projects like ULURP and Zoning which cover a wide range of policies might need to be broken out into sub-pages for each major policy section.
+
+### Fields you need to capture about each CUP project:
 * Name of project
+	* Link to project on CUP site
 * Year printed (ie when it was last up-to-date)
 * Latest date policy status was checked
 * Policy it covers
@@ -19,12 +27,17 @@ Last modified: Thu Jun 04, 2020  09:00PM
 		* Sources
 * Partner(s) who worked on it with us
 	* Should we contact them about an update to project?
-* CUP staff(s) who worked on it
+	* Their website/other ways to reach them
+* CUP staff(s) who worked on it, so you can ask them questions
 * Random notes:
-	* Great ideas for a visual that could better show how the policy works
-* (Designer?)
-	* I don't care about this in terms of policy, buf it you build this thing out, it could be useful for other purposes
-* (Format?)
+	* Great ideas for visuals that could better show how the policy works.
+	* Edits that should be made, but are maybe too minor to merit a reprint.
+	* People who love the project and might want to know if you update it.
+
+### Optional fields:
+* Designer?
+	* This doesn't matter in terms of policy, but it could be useful for other purposes
+* Format?
 
 
 
