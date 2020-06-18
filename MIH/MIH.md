@@ -1,5 +1,5 @@
 MIH/MIH.md
-Last modified: Thu Jun 18, 2020  11:11AM
+Last modified: Thu Jun 18, 2020  11:12AM
   
 
 ## What is Mandatory Inclusionary Housing?
@@ -12,6 +12,7 @@ Last modified: Thu Jun 18, 2020  11:11AM
 * **External resources:** 
 	* https://council.nyc.gov/land-use/plans/mih-zqa/mih/
 	* See Manhattan Institute [2020 report on effectiveness of MIH](./deblasios-mandatory-inclusionary-housing-program.pdf).
+		* But note that it is the _Manhattan Institute_ --- a notoriously conservative think tank.
 * **Also refers to:**
 	* AMI/MFI
 	* Affordable housing percentages of MFI
