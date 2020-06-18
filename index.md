@@ -1,5 +1,5 @@
 index.md  
-Last modified: Thu Jun 04, 2020  09:17PM
+Last modified: Thu Jun 18, 2020  10:55AM
   
 
 ## Welcome to CUP's Policy Tracker
@@ -26,7 +26,7 @@ for a given project, [see this list](./project_tracking-fields.md).
 
 #### EDT
 * Is Your Landlord Harassing You or Your Neighbors?
-* [What is Mandatory Inclusionary Housing?](MIH.md)
+* [What is Mandatory Inclusionary Housing?](./MIH/MIH.md)
 * What's Going On In The Neighborhood?
 * What Is FAR?
 * What is Affordable Housing?
