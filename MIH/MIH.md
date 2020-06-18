@@ -1,5 +1,5 @@
-./MIH.md  
-Last modified: Thu Jun 18, 2020  11:04AM
+MIH/MIH.md
+Last modified: Thu Jun 18, 2020  11:11AM
   
 
 ## What is Mandatory Inclusionary Housing?
