@@ -1,9 +1,9 @@
 filename: FAR/FAR.md
-Last modified: Fri Jun 19, 2020  09:41AM
+Last modified: Fri Jun 19, 2020  09:53AM
   
 
 ## What is FAR?
-* http://whatisfar.org/
+* [http://whatisfar.org/](http://whatisfar.org/)
 * **Published:** 2016
 * **Public Policy:** Floor Area Ratio
 	* Floor Area Ratio is a fundemental part of zoning in NYC and beyond.

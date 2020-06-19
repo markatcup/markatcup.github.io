@@ -1,9 +1,9 @@
 filename: MIH/MIH.md
-Last modified: Thu Jun 18, 2020  12:10PM
+Last modified: Fri Jun 19, 2020  09:53AM
   
 
 ## What is Mandatory Inclusionary Housing?
-* http://welcometocup.org/Projects/EnvisioningDevelopment/WhatIsMandatoryInclusionaryHousing
+* [http://welcometocup.org/Projects/EnvisioningDevelopment/WhatIsMandatoryInclusionaryHousing](http://welcometocup.org/Projects/EnvisioningDevelopment/WhatIsMandatoryInclusionaryHousing)
 * **Published:** 2018
 * **Public Policy:** Mandatory Inclusionary Housing
 	* Mandatory Inclusionary Housing is a set of zoning rules that requires developers of new buildings to include some portion of the buildings as affordable housing.
